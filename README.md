@@ -6,3 +6,4 @@
 ## 前后端分离，前端文件：
 ### https://www.hyluz.cn/hzsfxydk.html
 ## 后端对接Mysql
+## 配合宝塔面板定时任务使用
